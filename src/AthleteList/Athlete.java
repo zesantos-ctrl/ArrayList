@@ -1,11 +1,11 @@
 package AthleteList;
 
-public class Athlte {
+public class Athlete {
     private String name;
     private String modality;
     private double point;
 
-    public Athlte(String name, String modality, double point) {
+    public Athlete(String name, String modality, double point) {
         this.name = name;
         this.modality = modality;
         this.point = point;
